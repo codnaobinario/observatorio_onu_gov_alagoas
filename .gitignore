@@ -1,0 +1,5 @@
+.env
+.vscode/
+.history/
+.git/
+jsconfig.json

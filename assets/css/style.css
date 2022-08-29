@@ -1,0 +1,383 @@
+.indicador-card {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  row-gap: 0.5rem;
+  transition: 0.3s;
+  background-color: #f4f4f4;
+}
+
+.indicador-card:hover {
+  box-shadow: 0px 0px 9px 0px #848484;
+}
+
+.row-indicador-card-top,
+.row-indicador-card-bottom {
+  padding: 1.5rem 2rem;
+}
+
+.row-indicador-card-top {
+}
+
+.indicador-card-top-left {
+}
+
+.indicador-number {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.indicador-number span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  border: 1px solid #848484;
+  color: #f4f4f4;
+  font-size: 2rem;
+}
+
+.indicador-card-top-center {
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5rem;
+  padding-right: 2.5rem;
+}
+
+.indicardor-title {
+  font-size: 22px;
+}
+
+.indicardor-fonte,
+.indicardor-meta,
+.indicardor-meta-vinculada {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: initial;
+}
+
+.indicardor-fonte {
+  margin-bottom: 1rem;
+}
+
+.indicardor-meta {
+}
+
+.indicardor-meta-vinculada {
+}
+
+.indicador-card-top-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.indicador-img-ods {
+  width: 110px;
+}
+
+.indicador-img-ods img {
+  width: 100%;
+}
+
+.indicador-card-center {
+  display: flex;
+  flex-direction: row;
+  column-gap: 2rem;
+  padding: 0 2rem;
+}
+
+.indicador-card-center select {
+  width: auto;
+  padding: 5px 20px;
+}
+
+.indicador-card-bottom {
+}
+
+.row-indicador-card-bottom {
+}
+
+.indicador-card-bottom-left {
+  display: grid;
+  grid-template-rows: 100%;
+  grid-template-columns: 48% 48%;
+  justify-content: space-between;
+}
+
+.indicador-chart {
+}
+
+.indicador-chart-left,
+.indicador-chart-right {
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5rem;
+}
+
+.indicador-chart-left {
+}
+
+.indicador-chart-right {
+}
+
+.indicador-chart-desc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: initial;
+}
+
+.indicador-chart-desc span {
+  text-align: center;
+}
+
+.indicador-chart-lines,
+.indicador-chart-bars {
+  background-color: #ffffff;
+  padding: 10px;
+}
+
+.indicador-card-bottom-right {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+}
+
+.indicador-descricao,
+.indicador-conceitos-definicoes,
+.indicador-metodo-calculo {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: initial;
+}
+
+.indicador-download {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+}
+
+.indicador-download button {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.indicador-download button .dashicons {
+  vertical-align: middle;
+}
+
+.indicador-chart-position {
+  padding: 0 20px;
+  font-size: 0.8rem;
+  line-height: 1rem;
+  transition: 0.5s;
+  text-align: center;
+}
+
+.indicador-chart-position .featured {
+  color: red;
+  font-size: 0.9rem;
+}
+
+#filters-indicador .navbar {
+  display: block;
+  padding: 0;
+}
+
+#navbarFilter .navbar-nav {
+  flex-direction: row;
+  align-items: center;
+}
+
+#navbarFilter .nav-item {
+  padding: 0 5px;
+  min-width: 23.7%;
+}
+
+#navbarFilter .nav-select {
+  border-radius: 0;
+  border-color: #a09f9f;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff70;
+}
+
+#navbarFilter .btn-filter {
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
+  font-weight: 600;
+}
+
+.box-clear-form {
+  text-align: right;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+.clear-form {
+  font-size: 0.8rem;
+  color: #969696 !important;
+}
+
+.container-indicador {
+  padding-bottom: 4rem;
+}
+
+.indicador-pagination {
+  text-align: right;
+}
+
+.indicador-pagination .page-numbers {
+  border: 1px solid #0972b9;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: #fff;
+  transition: 0.3s;
+  color: #0972b9;
+  font-weight: 400;
+}
+
+.indicador-pagination .page-numbers:hover {
+  background-color: #0972b9;
+  box-shadow: 0 0 7px 0px #5a5959;
+  color: #fff;
+}
+
+.indicador-pagination .page-numbers.current {
+  background-color: #0972b9;
+  color: #fff;
+  box-shadow: inset 0 0 9px -3px #000;
+}
+
+.btn-disabled,
+.btn-disabled:hover,
+.btn-disabled:active,
+button[type="button"]:disabled {
+  background: #5a5959 !important;
+  color: #f4f4f4 !important;
+  border-color: #545454 !important;
+  cursor: default !important;
+}
+
+/* Mobile */
+@media screen and (max-width: 599px) {
+  .container-indicador {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .row-indicador-card-top {
+    flex-direction: column;
+  }
+
+  .indicador-card-top-center {
+    align-items: center;
+    padding: 0;
+  }
+
+  .indicardor-title {
+    text-align: center;
+  }
+
+  .indicardor-meta strong,
+  .indicardor-meta-vinculada strong,
+  .indicardor-fonte strong {
+    display: block;
+  }
+
+  .indicardor-fonte,
+  .indicardor-meta,
+  .indicardor-meta-vinculada {
+    text-align: center;
+  }
+
+  .indicador-card-top-right {
+    align-items: center;
+    margin-top: 1rem;
+  }
+
+  .indicador-card-center {
+    flex-direction: column;
+    row-gap: 1rem;
+  }
+
+  .indicador-card-bottom-left {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+    row-gap: 2rem;
+  }
+
+  .indicador-descricao,
+  .indicador-conceitos-definicoes,
+  .indicador-metodo-calculo {
+    align-items: center;
+  }
+
+  .indicador-descricao .desc,
+  .indicador-conceitos-definicoes .desc,
+  .indicador-metodo-calculo .desc {
+    text-align: center;
+  }
+
+  .indicador-download {
+    margin-top: 2rem;
+  }
+
+  #navbarFilter .navbar-nav {
+    flex-direction: column;
+    align-items: inherit;
+    row-gap: 1rem;
+  }
+
+  #navbarFilter .nav-item {
+    padding: inherit;
+    margin: 0 5px;
+  }
+
+  #navbarFilter .btn-filter {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1050px) {
+  #navbarFilter .navbar-nav {
+    flex-direction: column;
+    align-items: inherit;
+    row-gap: 1rem;
+  }
+
+  #navbarFilter .nav-item.ps-0 {
+    padding-left: inherit !important;
+  }
+
+  #navbarFilter .btn-filter {
+    width: 100%;
+  }
+
+  /* #navbarFilter .navbar-nav {
+    flex-direction: column;
+    align-items: inherit;
+    row-gap: 1rem;
+  }
+
+  #navbarFilter .nav-item {
+    padding: inherit;
+    margin: 0 5px;
+  }
+
+  #navbarFilter .btn-filter {
+    width: 100%;
+  } */
+}

@@ -1,0 +1,146 @@
+[
+	{
+		"id": 1,
+		"name": "Erradicação da pobreza",
+		"description": "Acabar com a pobreza em todas as suas formas, em todos os lugares.",
+		"backgroundColor": "rgba(229, 36, 59, 0.2)",
+		"borderColor": "rgba(229, 36, 59, 1)",
+		"color": "rgba(229, 36, 59, 1)"
+	},
+	{
+		"id": 2,
+		"name": "Fome zero e agricultura sustentável",
+		"description": "Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.",
+		"backgroundColor": "rgba(221, 168, 58, 0.2)",
+		"borderColor": "rgba(221, 168, 58, 1)",
+		"color": "rgba(221, 168, 58, 1)"
+	},
+	{
+		"id": 3,
+		"name": "Saúde e Bem-Estar",
+		"description": "Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.",
+		"backgroundColor": "rgba(76, 159, 56, 0.2)",
+		"borderColor": "rgba(76, 159, 56, 1)",
+		"color": "rgba(76, 159, 56, 1)"
+	},
+	{
+		"id": 4,
+		"name": "Educação de qualidade",
+		"description": "Assegurar a educação inclusiva, equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todos.",
+		"backgroundColor": "rgba(197, 25, 45, 0.2)",
+		"borderColor": "rgba(197, 25, 45, 1)",
+		"color": "rgba(197, 25, 45, 1)"
+	},
+	{
+		"id": 5,
+		"name": "Igualdade de gênero",
+		"description": "Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas.",
+		"backgroundColor": "rgba(255, 58, 33, 0.2)",
+		"borderColor": "rgba(255, 58, 33, 1)",
+		"color": "rgba(255, 58, 33, 1)"
+	},
+	{
+		"id": 6,
+		"name": "Água potável e saneamento",
+		"description": "Garantir disponibilidade e manejo sustentável da água e saneamento para todos.",
+		"backgroundColor": "rgba(38, 189, 226, 0.2)",
+		"borderColor": "rgba(38, 189, 226, 1)",
+		"color": "rgba(38, 189, 226, 1)"
+	},
+	{
+		"id": 7,
+		"name": "Energia limpa e acessível",
+		"description": "Garantir acesso à energia barata, confiável, sustentável e renovável para todos.",
+		"backgroundColor": "rgba(252, 195, 11, 0.2)",
+		"borderColor": "rgba(252, 195, 11, 1)",
+		"color": "rgba(252, 195, 11, 1)"
+	},
+	{
+		"id": 8,
+		"name": "Trabalho decente e crescimento econômico",
+		"description": "Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo, e trabalho decente para todos.",
+		"backgroundColor": "rgba(162, 25, 66, 0.2)",
+		"borderColor": "rgba(162, 25, 66, 1)",
+		"color": "rgba(162, 25, 66, 1)"
+	},
+	{
+		"id": 9,
+		"name": "Indústria, inovação e infraestrutura",
+		"description": "Construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável, e fomentar a inovação.",
+		"backgroundColor": "rgba(253, 105, 37, 0.2)",
+		"borderColor": "rgba(253, 105, 37, 1)",
+		"color": "rgba(253, 105, 37, 1)"
+	},
+	{
+		"id": 10,
+		"name": "Redução das desigualdades",
+		"description": "Reduzir as desigualdades dentro dos países e entre eles.",
+		"backgroundColor": "rgba(221, 19, 103, 0.2)",
+		"borderColor": "rgba(221, 19, 103, 1)",
+		"color": "rgba(221, 19, 103, 1)"
+	},
+	{
+		"id": 11,
+		"name": "Cidades e comunidades sustentáveis",
+		"description": "Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis.",
+		"backgroundColor": "rgba(253, 157, 36, 0.2)",
+		"borderColor": "rgba(253, 157, 36, 1)",
+		"color": "rgba(253, 157, 36, 1)"
+	},
+	{
+		"id": 12,
+		"name": "Consumo e produção responsáveis",
+		"description": "Assegurar padrões de produção e de consumo sustentáveis.",
+		"backgroundColor": "rgba(191, 139, 46, 0.2)",
+		"borderColor": "rgba(191, 139, 46, 1)",
+		"color": "rgba(191, 139, 46, 1)"
+	},
+	{
+		"id": 13,
+		"name": "Ação contra a mudança global do clima",
+		"description": "Tomar medidas urgentes para combater a mudança climática e seus impactos.",
+		"backgroundColor": "rgba(63, 126, 68, 0.2)",
+		"borderColor": "rgba(63, 126, 68, 1)",
+		"color": "rgba(63, 126, 68, 1)"
+	},
+	{
+		"id": 14,
+		"name": "Vida na água",
+		"description": "Conservação e uso sustentável dos oceanos, dos mares, e dos recursos marinhos para o desenvolvimento sustentável.",
+		"backgroundColor": "rgba(10, 151, 217, 0.2)",
+		"borderColor": "rgba(10, 151, 217, 1)",
+		"color": "rgba(10, 151, 217, 1)"
+	},
+	{
+		"id": 15,
+		"name": "Vida terrestre",
+		"description": "Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a desertificação, deter e reverter a degradação da Terra e deter a perda da biodiversidade.",
+		"backgroundColor": "rgba(86, 192, 43, 0.2)",
+		"borderColor": "rgba(86, 192, 43, 1)",
+		"color": "rgba(86, 192, 43, 1)"
+	},
+	{
+		"id": 16,
+		"name": "Paz, Justiça e Instituições Eficazes",
+		"description": "Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e construir instituições eficazes, responsáveis e inclusivas em todos os níveis.",
+		"backgroundColor": "rgba(0, 104, 157, 0.2)",
+		"borderColor": "rgba(0, 104, 157, 1)",
+		"color": "rgba(0, 104, 157, 1)"
+	},
+	{
+		"id": 17,
+		"name": "Parcerias e meios de implementação",
+		"description": "Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.",
+		"backgroundColor": "rgba(25, 72, 106, 0.2)",
+		"borderColor": "rgba(25, 72, 106, 1)",
+		"color": "rgba(25, 72, 106, 1)"
+	},
+	{
+		"id": "N",
+		"name": "Não se aplica",
+		"description": "",
+		"backgroundColor": "rgba(128, 128, 128, 0.2)",
+		"borderColor": "rgba(128, 128, 128, 1)",
+		"color": "rgba(128, 128, 128, 1)"
+	}
+]
